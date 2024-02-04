@@ -1,0 +1,66 @@
+1) K H|R V|-R -V|-A R|-V K|-K V|-H A|-H K||-K
+
+2) R V|-R -V|-A R|-K V|-H A||-K
+
+3) R V|-R -V|-A R|-K V||-K
+
+4) -R -V|-A R||-K
+
+5) -R -V||-K
+
+1 H (1,9)
+2 -V (5,9)
+3 -H (8,9)
+4 A (7,10)
+5 R (2,11)
+6 -K (6,11)
+7 R (4,13)
+8 -V (3,14)
+
+
+
+
+1) K H|R V|-R -V|-A R|-V K|-K V|-H A|-H K||K
+
+2) K H|R V|-R -V|-A R|-V K|-H A|-H K||K
+
+3) K H|R V|-A R|-H A|-H K||K
+
+4) K H|-H A|-H K||K
+
+5) -H K||K
+
+1 V
+2 -R
+3 K --
+4 V --
+5 -A
+6 -H
+7 K
+
+
+
+
+1) K H|R V|-R -V|-A R|-V K|-K V|-H A|-H K||-A v -H|A v H|
+
+2) K -A|R V|-R -V|-A R|-V K|-K V|-H K||-A v -H|A v H|
+
+3) K H|R V|-R -V|R H|-V K|-K V|A K||-A v -H|A v H|
+
+4) R V|-R -V|-V K|-K V|A K||-A v -H|A v H|
+
+5) R V|-R -V|-V K|A K||-A v -H|A v H|
+
+6) R V|-V K|A K||-A v -H|A v H|
+
+7) R V|A K||-A v -H|A v H|
+
+8) A K||-A v -H|A v H|
+
+1 -H
+2 K
+3 R
+4 V
+5 -V
+6 K
+7 R
